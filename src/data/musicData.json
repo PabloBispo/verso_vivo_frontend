@@ -1,0 +1,60 @@
+{
+  "titulo": "A Começar Em Mim",
+  "autor": "Vencedores Por Cristo",
+  "foto_artista": "https://akamai.sscdn.co/letras/150x150/fotos/6/6/c/f/66cfdf44025c09f390eaa4dd5ad25b22.jpg",
+  "album": "",
+  "ano": "",
+  "resumo": "A música aborda a necessidade de mudança pessoal para alcançar a unidade e a perfeição no corpo de Cristo.",
+  "comentarios_adicionais": "A letra enfatiza a importância de começar com a mudança pessoal para alcançar a unidade e a perfeição no corpo de Cristo.",
+  "referencias_biblicas": [
+    {
+      "versiculo": "João 17:21-23",
+      "contexto": "A oração de Jesus para que os discípulos sejam um, assim como o Pai e o Filho são um."
+    },
+    {
+      "versiculo": "Efésios 4:13",
+      "contexto": "A maturidade no corpo de Cristo é alcançada quando os discípulos alcançam a unidade e a perfeição."
+    }
+  ],
+  "explicacao_teologica": "A música enfatiza a importância da mudança pessoal para alcançar a unidade e a perfeição no corpo de Cristo. Isso está em conformidade com a teologia reformada, que enfatiza a necessidade de santificação e crescimento espiritual para alcançar a maturidade no corpo de Cristo.",
+  "correcoes_teologicas": {
+    "possui_inconsistencias": false,
+    "observacoes": ""
+  },
+  "aplicabilidade_congregacional": "A música pode ser usada em cultos de adoração e reflexão, enfatizando a necessidade de mudança pessoal e unidade no corpo de Cristo.",
+  "classificacoes": {
+    "precisao_biblica": 4,
+    "cristocentricidade": 4,
+    "adequacao_congregacional": 4,
+    "profundidade_teologica": 3,
+    "coerencia_doutrinaria": 4
+  },
+  "tags": ["Unidade", "Perfeição", "Mudança Pessoal", "Corpo de Cristo"],
+  "conexao_confessional": {
+    "confissao_de_fe": "Artigo 26 da Confissão de Fé de Westminster",
+    "catecismo_maior": [
+      { "pergunta": "Pergunta 147", "resumo": "O que é a santificação?" }
+    ]
+  },
+  "exegese_detalhada": [
+    {
+      "trecho": "A começar em mim",
+      "analise": "A letra enfatiza a importância de começar com a mudança pessoal para alcançar a unidade e a perfeição no corpo de Cristo."
+    },
+    {
+      "trecho": "Onde há frieza que haja amor",
+      "analise": "A letra enfatiza a importância de substituir a frieza pelo amor, em conformidade com a teologia reformada que enfatiza a necessidade de santificação e crescimento espiritual."
+    }
+  ],
+  "estrutura_musical": {
+    "tempo": "Moderado",
+    "tom": "D",
+    "dificuldade": "Moderada",
+    "observacoes": "A música tem uma estrutura simples e fácil de seguir."
+  },
+  "recomendacao_liturgica": "A música pode ser usada em cultos de adoração e reflexão, enfatizando a necessidade de mudança pessoal e unidade no corpo de Cristo.",
+  "sensibilidade_cultural": {
+    "relevancia": "Moderada",
+    "contexto": "A música pode ser relevante em culturas que valorizam a unidade e a perfeição no corpo de Cristo."
+  }
+}
